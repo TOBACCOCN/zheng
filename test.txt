@@ -1,1 +1,3 @@
 test commit -a
+test tag
+test git status -s
